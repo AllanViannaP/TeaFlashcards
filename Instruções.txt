@@ -1,0 +1,18 @@
+Nosso trabalho é um programa chamado Tea Flashcards, que transforma bancos de questões em minigames simples.
+
+Para criar um banco de questões basta iniciar o jogo e ir até a área de criação.
+
+IMPORTANTE: Antes de importar um deck crie um para que a pasta possa ser criada automaticamente em seu pc.
+
+Para importar um Deck é necessario abrir a pasta "C:\Users\SEU USUARIO\AppData\Local\TeaFlashcard"
+
+Caso queira abrir a pasta de forma automática é so iniciar o aquivo "Abrir pasta de decks.bat"
+
+Caso não queira abrir a pasta pelo arquivo, aperte "windows + r" digite %appdata% volte até a pasta appdata,
+abra a pasta local e procure pela pasta TeaFlashcard ou troque o nome do aquivo de texto "Abrir Decks.txt" para "Abrir Decks.bat"
+
+
+
+Por favor responda as perguntas no formulario: https://forms.gle/nDDccWMHyBEktEFeA
+
+Muito obrigado por nos ajudar em nossa pesquisa!

@@ -1,0 +1,10 @@
+texto = "Este é o [c_aqua][shake]tutorial"
+continuar = 0;
+txtenter = "Pressione enter para continuar";
+es = 0;
+alp = true;
+alpha=1;
+ximg = (room_height/2)*7
+yimg = (room_width/2)*1.5
+yimge = (room_width/2)*3.5
+alarm[0] = 15;

@@ -1,0 +1,1 @@
+y = obj_baloon1_pai.y+20
