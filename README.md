@@ -3,7 +3,7 @@
 
 The Tea Flashcards is a program that transforms question databases in decks of simple minigames. It 
 was developed by Allan Vianna Pereira and Érika Cristina Rosa Telles as the final project to obtain 
-their College degree. It is avaliable only in Portuguese. 
+their College degree. It is avaliable in Portuguese only. 
 
 
 ## **About**:
