@@ -34,6 +34,6 @@ https://drive.google.com/drive/folders/1WghAJx1bwxtRng0VwKMS8kJSdF2HAiMB?usp=sha
 * To create a question database, access the creation menu inside the program.
 * After its creation, the folder can be accessed easily by opening the **"Open_Deck_Folder.bat"** file.
 
- > If you prefer to access it manually, follow the following steps:
+ > If you prefer to access the folder manually, follow the following steps:
 * To open that folder, use the "windows key + R" shortcut and input %appdata% in the box that appears. 
 * Then, return to the AppData folder, open the Local folder and then search for the TeaFlashcard folder.
