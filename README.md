@@ -11,7 +11,7 @@ their College degree. It is avaliable in Portuguese only.
 
 ![icone](https://user-images.githubusercontent.com/119679121/209983033-7d13df79-3e5f-4e08-99d6-6c093243436c.png)
 
-## **Technologies used are**:
+## **Technologies used**:
 * GameMaker Studio 2 with language **GML**
 * [Scribble](https://github.com/JujuAdams/Scribble)
 * Aseprite for pixel arts made by [Érika Cristina](https://www.artstation.com/erika1001)
@@ -26,7 +26,7 @@ https://drive.google.com/drive/folders/1WghAJx1bwxtRng0VwKMS8kJSdF2HAiMB?usp=sha
 
 
 
-## **How to use the application**
+## **How to use the application**:
 
 * All the decks are stored in the folder "C:\Users\USERNAME\AppData\Local\TeaFlashcard"
 * To import a deck, it is necessary to place the .deck files inside this folder.
