@@ -14,7 +14,7 @@ their College degree is avaliable only in Portuguese.
 ## **Technologies used are**:
 * GameMaker Studio 2 with language **GML**
 * [Scribble](https://github.com/JujuAdams/Scribble)
-* Aseprite for pixelarts made by [Érika Cristina](https://www.artstation.com/erika1001)
+* Aseprite for pixel arts made by [Érika Cristina](https://www.artstation.com/erika1001)
 * [Git](https://git-scm.com)
 
 
