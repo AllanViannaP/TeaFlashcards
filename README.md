@@ -19,7 +19,7 @@ their College degree. It is avaliable in Portuguese only.
 
 
 
-## To download the compiled files download [this folder](https://drive.google.com/drive/folders/1WghAJx1bwxtRng0VwKMS8kJSdF2HAiMB?usp=share_link)
+## To download the compiled files download this folder:
 https://drive.google.com/drive/folders/1WghAJx1bwxtRng0VwKMS8kJSdF2HAiMB?usp=share_link
 
 
