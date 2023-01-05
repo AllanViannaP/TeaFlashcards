@@ -1,4 +1,4 @@
-# TeaFlashcards
+# Tea Flashcards
 > Status: Finished ✔️
 
 
